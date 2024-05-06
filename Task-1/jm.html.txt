@@ -1,0 +1,180 @@
+
+<!DOCTYPE html>
+html
+head
+meta name=viewport content=width=device-width, initial-scale=1
+style
+.container {
+  position relative;
+  text-align center;
+  color white;
+}
+
+.bottom-left {
+  position absolute;
+  bottom 8px;
+  left 16px;
+}
+
+.top-left {
+  position absolute;
+  top 8px;
+  left 16px;
+}
+
+.top-right {
+  position absolute;
+  top 8px;
+  right 16px;
+}
+
+.bottom-right {
+  position absolute;
+  bottom 8px;
+  right 16px;
+}
+
+.centered {
+  position absolute;
+  top 40%;
+  left 50%;
+  transform translate(-50%, -50%);
+}
+.button {
+  position absolute;
+  top 55%;
+  left 50%;
+  transform translate(-50%, -50%);
+}
+.coffee {
+  position absolute;
+  top 70%;
+  left 50%;
+  transform translate(-50%, -50%);
+}
+style
+head
+body
+
+centerh2Starbucks Coffee Shoph2center
+div class=container
+  img src=httpsi.ytimg.comviDyJTVkRP1vYmaxresdefault.jpg width=1500 height=600
+  div class=centeredh1Starbucks Coffeeh1div
+ style
+.button {
+  background-color #E07070;
+  color Black;
+  padding 12px 20px;
+  text-decoration none;
+  display inline-block;
+  font-size 18px;
+  margin 5px 2px;
+}
+style
+a href=# class=buttonOrder Nowa
+
+div
+body
+head
+head
+body
+centerh1Featured Itemsh1center
+
+br
+br
+!DOCTYPE html
+html
+head
+style
+ {
+  box-sizing border-box;
+}
+
+.column {
+  float left;
+  width 20%;
+  padding 5px;
+}
+
+.rowafter {
+  content ;
+  clear both;
+  display table;
+}
+style
+head
+body
+center
+div class=row
+  div class=column
+    img src=httpsimages.pexels.comphotos982612pexels-photo-982612.jpegcs=srgb&dl=art-beverage-black-982612.jpg&fm=jpg width=300 height=200
+    pCappuccinop
+
+  div
+ 
+  div class=column
+    img src=httpsi.pinimg.comoriginals980150980150c123d3c29c282d8708d935a541.jpg alt=Forest width=300 height=200
+    pGold Rose Coffeep
+  div
+  
+  div class=column
+    img src=httpswww.platingsandpairings.comwp-contentuploads201911cardamom-latte-9-1460x2190.jpg width=300 height=200
+    pHoney Coffeep
+  div
+
+ div class=column
+    img src=httpswww.chrysalisliving.comwp-contentuploads201810matcha-latte-recipe-smaller.jpg width=300 height=200
+    pMint Coffeep
+  div
+ div class=column
+    img src=https1.bp.blogspot.com-8weHFhYvy1oV-fCpY3WiTIAAAAAAAAxWYUHDafk_SOecM9LK3bhVkwEtohxceoGvEwCLcBs1600DSC_0006.JPGwidth=300 height=200
+    pLattep
+  div
+div
+center
+body
+html
+style
+.h {
+  float left;
+  width 40%;
+  padding 55px;
+}
+style
+center
+div class=row
+  div class=h
+    img src=httpscommpic.communityheritagemaps.comhow_to_use_gogle_maps_for_location_sharing.jpg width=300 height=300
+ div
+centerbrbrbrbrbrbr
+h2 Roastery and Headquarters Informationbr
+Starbucks Coffee Roasters - Belmontbr
+3356 SE Belmont St.br
+Portland, Oregon 97214br
+(503) 232-8889br
+
+starbuckscoffee.comh2
+center
+div
+center
+body
+head
+head
+body
+centerh1Get Secret Notesh1center
+style
+.m {
+  float center;
+  width 80%;
+  padding -30px;
+}
+style
+div class=row
+center
+  div class=m
+    img src= httpsthumbs.dreamstime.combsearch-bar-google-window-shadow-white-background-vector-illustration-204953279.jpg width=800 height=150
+ div
+pThis form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.p
+center
+
+
